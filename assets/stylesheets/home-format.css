@@ -1,0 +1,22 @@
+.post {
+  text-align: center;
+  font-size: 30px;
+  margin: 15px 40px;
+  background-color: white;
+  color: black;
+  padding: 15px;
+}
+ h2 {
+  color: white;
+  background-color: black;
+  margin-bottom: 10px;
+  padding-top: 8px;
+}
+.title {
+  font-family: "Raleway", sans-serif;
+  padding-bottom: 10px;
+}
+img {
+  padding: 15px;
+  background-color: black;
+}
